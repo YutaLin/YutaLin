@@ -1,4 +1,4 @@
-<h1>Hello World!, I'm Bolin, a Distributed Systems Enthusiast 👋🏼</h1>
+<h3>Hello World!, I'm Bolin(Yuta) 👋🏼</h3>
 
 <p>
 🎓 Currently studying Master of Science in Information Systems (MSIS) at Northeastern University<br>
@@ -6,7 +6,7 @@
 🌍 Open Source Contributor — currently working with Kafka and related technologies<br>
 </p>
 
-<h2>🚀 Languages and Tools I Use</h2>
+<h3>🚀 Languages and Tools I Use</h3>
 <p>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>

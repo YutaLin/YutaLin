@@ -1,7 +1,7 @@
 <h3>Hello World!, I'm Bolin 👋🏼</h3>
 
 <p>
-🎓 Currently studying Master of Science in Information Systems (MSIS) at Northeastern University<br>
+🎓 Currently studying at Northeastern University<br>
 📱 Former iOS developer, now deep diving into distributed systems and backend development<br>
 🌍 Open Source Contributor — currently working with Kafka and related technologies<br>
 </p>

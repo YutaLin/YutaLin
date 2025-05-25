@@ -1,4 +1,4 @@
-<h3>Hello World!, I'm Bolin (Yuta) 👋🏼</h3>
+<h3>Hello World!, I'm Bolin 👋🏼</h3>
 
 <p>
 🎓 Currently studying Master of Science in Information Systems (MSIS) at Northeastern University<br>

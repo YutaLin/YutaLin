@@ -2,8 +2,7 @@
 
 <p>
 🎓 Currently studying Master of Computer Software Engineering at Northeastern University<br>
-📱 Former iOS developer, now deep diving into distributed systems and backend development<br>
-🌍 Open Source Contributor — currently working with Kafka and related technologies<br>
+🌍 Open Source Contributor — currently working with Kafka, Ozone, Datafusion and related technologies<br>
 </p>
 
 <h2>🚀 Languages and Tools I Use</h2>
